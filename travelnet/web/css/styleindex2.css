@@ -1,0 +1,51 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Feb 11, 2023, 10:01:19 PM
+    Author     : admin
+*/
+
+body {
+    width: 100%;
+}
+.img-circle{
+    padding: 10px;
+    width: 100%;
+    height: 258px;
+}
+.container{
+    background-color: #ffffff;
+}
+.monan {
+margin-top: 10px ;
+color: aliceblue;
+
+}
+.monan h1{
+    color: yellow;
+    font-size: 30px;
+    text-align: center;
+}
+.monan img{
+    margin-top: 10px;
+    width: 500px;
+    height: 290px;
+}
+.detail{
+    background-color: rgb(13, 104, 40);
+    border: 0px;
+    padding: 7px;
+    margin-left: 43%;
+}
+.footer{
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: 2px solid yellow;
+    background-color: rgb(181, 178, 178);
+    color: aliceblue;
+}
+.hed{
+    margin-bottom: 10px ;
+}
